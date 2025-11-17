@@ -21,4 +21,23 @@ Por ser um projeto educacional, alguns recursos não foram implementados totalme
 - Integração com serviços externos;
 - Páginas em redes sociais;
 - Pedido sendo realmente finalizado.<br>
-As telas e interações simulam o comportamento de uma loja real, mas não efetuam vendas.
+As telas e interações simulam o comportamento de uma loja real, mas não efetuam vendas. <br><br>
+
+## 🧁 Funcionalidades Criadas
+![Página inicial](assets/mockup.png)
+Mesmo sendo um projeto acadêmico, diversas funções foram estruturadas para simular um e-commerce:
+- Listagem de cupcakes;
+- Filtro por categorias (“Clássicos”, “Gourmet”, “Saudáveis”);
+- Detalhes do produto;
+- Cálculo simulado de frete;
+- Drawer lateral com resumo do pedido;
+- Adicionar/Remover itens do carrinho;
+- Fluxo de checkout (Entrega → Pagamento → Resumo);
+- Página de contato;
+- Newsletter. <br><br>
+
+## 📄 Mais Informações
+Este projeto foi criado exclusivamente para fins educacionais.<br>
+Nenhuma venda é realizada.<br>
+Nenhum dado pessoal é coletado.<br>
+As interações são apenas simulações.
